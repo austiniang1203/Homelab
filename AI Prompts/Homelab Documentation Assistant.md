@@ -45,7 +45,7 @@ The document should be:
 - Formatted so I can copy it directly into my repo
 - Include placeholders where I need to fill in my own details
 
-# Just replace the last line with whatever document you want to work on first, for example:
-# "Help me create a network-topology.md for my docs/ folder"
-# "Help me create a vm-inventory.md for my infrastructure/ folder"
-# "Help me create a lab-01-esxi-vm-provisioning.md for my labs/ folder"
+Just replace the last line with whatever document you want to work on first, for example:
+- "Help me create a network-topology.md for my docs/ folder"
+- "Help me create a vm-inventory.md for my infrastructure/ folder"
+- "Help me create a lab-01-esxi-vm-provisioning.md for my labs/ folder"
