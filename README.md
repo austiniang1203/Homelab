@@ -6,7 +6,7 @@
 
 ## 📋 Overview
 
-This repository documents my homelab environment — including infrastructure configs, automation scripts, lab exercises, and notes. It serves as both a reference for myself and a learning journal for all thing technology.
+This repository documents my homelab environment — including infrastructure configs, automation scripts, lab exercises, and notes. It serves as both a reference for myself and a learning journal for all things technology.
 
 ---
 
