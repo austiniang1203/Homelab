@@ -63,8 +63,8 @@ homelab/
 
 ### Networking
 - **Router/Firewall:** Ubiquiti UDM Pro
-- **DNS:** _e.g., AdGuard Home / Pi-hole (planned)_
-- **VPN:** _e.g., Tailscale / WireGuard (planned)_
+- **DNS:** Pi-hole
+- **VPN:** WireGuard
 
 ### Orchestration & Automation
 - **Container Orchestration:** _e.g., k3s (planned)_
@@ -77,7 +77,7 @@ homelab/
 ### Self-Hosted Services
 | Service | Purpose | Status |
 |---------|---------|--------|
-| _TBD_ | | ⚪ Planned |
+| Game servers | Host game server for myself and friends to play on | Complete |
 
 ---
 
