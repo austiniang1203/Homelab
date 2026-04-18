@@ -77,7 +77,7 @@ homelab/
 ### Self-Hosted Services
 | Service | Purpose | Status |
 |---------|---------|--------|
-| Game servers | Host game server for myself and friends to play on | Complete |
+| Game servers | Locally hosted server for myself and friends to play on | Complete |
 
 ---
 
