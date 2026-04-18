@@ -21,21 +21,22 @@ in my repo. Here is my setup:
 - **Access Point:** Ubiquiti U6-Pro
 
 ### Repo Folder Structure
-- docs/           → Notes, diagrams, learning references
-- infrastructure/ → VM configs, templates, ESXi settings
-- networking/     → Firewall rules, VLAN configs, DNS
-- automation/     → Ansible playbooks, scripts
-- kubernetes/     → k3s/k8s manifests
-- monitoring/     → Prometheus, Grafana configs
-- services/       → Self-hosted app configs
-- labs/           → Structured lab exercises
+- Docs/           → Notes, diagrams, learning references
+- Infrastructure/ → VM configs, templates, ESXi settings
+- Networking/     → Firewall rules, VLAN configs, DNS
+- Automation/     → Ansible playbooks, scripts
+- Security/       → Network security, IAM
+- Monitoring/     → Prometheus, Grafana configs
+- Services/       → Self-hosted app configs
+- Labs/           → Structured lab exercises
 
 ### My Experience Level
-- Overall homelab: Beginner/Intermediate
-- Linux CLI: Comfortable
-- VMware ESXi: Beginner
-- Networking: Beginner/Intermediate
-- Kubernetes: No experience yet
+- Overall homelab: [X]
+- Linux CLI: [X]
+- PowerShell: [X]
+- VMware ESXi: [X]
+- Networking: [X]
+- Kubernetes: [X]
 
 ### My Ask
 Help me create a [DOCUMENT NAME] for my [FOLDER NAME] folder. 
